@@ -22,11 +22,14 @@ The application uses Redux Toolkit for state management and offers a rich set of
 To run this project locally, follow these steps:
 
 1. **Clone the Repository**
-2. **Install Dependencies**
+   ```bash
+   git clone https://github.com/VishnuPratapGit/AccuKnox-Assignment
+   ```
+3. **Install Dependencies**
    ```bash
    npm install
    ```
-3. **Run the Development Server**
+4. **Run the Development Server**
    ```bash
    npm run dev
    ```
