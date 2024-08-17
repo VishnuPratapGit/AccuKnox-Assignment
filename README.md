@@ -1,6 +1,7 @@
 # Dashboard
-
 The application uses Redux Toolkit for state management and offers a rich set of features for interacting with widgets and categories.
+
+## [Live Demo](https://vps-accuknox-assignment.netlify.app/)
 
 ## Features
 
